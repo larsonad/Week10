@@ -1,3 +1,5 @@
+using Unity.AI.Navigation;
+using UnityEngine.AI;
 using UnityEngine;
 
 public class LevelGenerator : MonoBehaviour {
